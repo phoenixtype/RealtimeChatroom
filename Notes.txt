@@ -1,0 +1,10 @@
+Backend - Java Springboot with Websocket and STOMP (Simple Text Oriented Messaging Protocol)
+Frontend - ReactJS
+
+How the application works:
+- STOMP is an envelope for the payload to communicate between the client and the server through websockets.
+- STOMP is the messaging protocol that is used to communicate between the client and the server.
+- STOMP adds a header to the message payload to identify the destination of the message.
+
+- SockJS gives a coherent cross-platform (browser) JavaScript API that creates a low latency, full duplex, cross-domain communication channel
+  between the browser and the web server, with WebSockets or without.
